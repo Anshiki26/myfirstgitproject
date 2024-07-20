@@ -1,0 +1,41 @@
+Job Description
+Job responsibilities: 
+Perform E2E Requirements gathering and analysis;
+Provide Functional design, data modelling and manage design documentation;
+Support development & testing teams, UAT during solution delivery;
+Support Pre-production/Go live activities;
+Manage change request lifecycle;
+Learning Netcracker and other standards in BSS (mainly CRM);
+Study & implementation of the newest communications technologies, trends in the telecommunications industry.
+
+Job requirements: 
+Mandatory Skills & experience: 
+6 - 10 years of overall experience;
+Experience in Order Management, Order Decomposition and Orchestration;
+Understanding of Product Catalogue, Order Entry (Omni Channel), Product Pricing and Quote Management;
+Experience in business analysis, business process modelling, information models development, use cases etc.;
+Functional knowledge of Telecom Products such as Wired, Wireless, Mobile solutions, Triple Play, Quad Play, VPN, IVPN/Managed solutions;
+Hands on working experience in Telecom Domain (BSS or OSS) is a must;
+Good knowledge of Telco COTS products especially CRM is a must;
+Good understanding of standards and overall BSS/OSS solutions and integration;
+Experience in Designing solution and required documentation;
+Expertise on standard tools for requirements & designing;
+Experience in SDLC /Agile delivery methodologies;
+Willingness to travel.
+
+Good to have skills:
+Experience in Integrations;
+Order Processing framework, Order Manager;
+Hands on with delivery management tools such as HPQC, JIRA, Enterprise Architect, UI tools (Axure), etc.;
+Experience in SVN configuration for document and process management;
+Telecom Industry standards such as eTOM, SID etc.; 
+Understanding of SQL, XML, REST API.
+
+Salary: Not Disclosed by Recruiter
+Industry: IT-Software / Software Services
+Functional Area: IT Software - Telecom Software
+Role Category: System Design/Implementation/ERP/CRM
+Role: Business Analyst
+Employment Type: Permanent Job, Full Time
+Keyskills:
+business analysisbsscrmtelecombusiness analystcotssolution designdemosrequirement gatheringumlhldllddesignerorder managementosmoracle osmorder orchestrationorder decompositionorchestrationdecomposition
